@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-
 toto je nadpis
 
-=======
-toto je nadpis
->>>>>>> nadpis2
