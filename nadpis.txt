@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 toto je nadpis
-=======
-toto je druhy nadpis
->>>>>>> nadpis2
+
